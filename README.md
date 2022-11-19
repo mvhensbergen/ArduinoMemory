@@ -32,7 +32,7 @@ Each round, a red LED will display a random sequence of short-and long flashes w
 After the LED has flashed, the player must recreate the short-and long sequence by pressing the button, whereby
 a short press means 'short flash' and a long press means 'long flash'.
 
-If the sequence is repeated correctly, the sequence is lengthened by one and the game continues as described above. If the player has succesfully memorizes and reproduced the final sequence of length `maxRounds`, the player has won.
+If the sequence is repeated correctly, the sequence is lengthened by one and the game continues as described above. If the player has succesfully memorized and reproduced the final sequence of length `maxRounds`, the player has won.
 
 If at any time the sequence is not repeated correctly, the player has lost and the game will restart with a new sequence of length one.
 
